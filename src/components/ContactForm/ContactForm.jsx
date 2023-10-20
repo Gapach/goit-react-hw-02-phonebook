@@ -54,7 +54,7 @@ export class ContactForm extends Component {
       <label>
       <p className={css.label}>Number</p>
       <input 
-      placeholder='459-12-56'
+      placeholder='+459-12-56'
           type="tel"
           id={this.numberInputId}
           value={this.state.number}
