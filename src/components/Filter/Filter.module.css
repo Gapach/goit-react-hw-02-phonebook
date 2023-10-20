@@ -1,0 +1,9 @@
+.filter {
+    display: flex;
+    margin-left: 28px;
+    align-items: center;
+}
+
+.filterInput {
+    margin-left: 20px;
+}
